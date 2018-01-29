@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_52"
+        android:checkable="true"
+        android:checked="true"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_light"
+        android:orderInCategory="100"
+        android:textColor="#1e90ff"
+        android:title="Line 52"
+        android:visible="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_51b"
+        android:checkable="true"
+        android:checked="true"
+        android:enabled="true"
+        android:orderInCategory="100"
+        android:textColor="#228B22"
+        android:title="Line 51B" />
+    <item
+        android:id="@+id/action_18"
+        android:checkable="true"
+        android:checked="true"
+        android:enabled="true"
+        android:textColor="#9400d3"
+        android:orderInCategory="100"
+        android:title="Line 18"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_6"
+        android:checkable="true"
+        android:checked="true"
+        android:enabled="true"
+        android:orderInCategory="100"
+        android:textColor="#ff8000"
+        android:title="Line 6"
+        app:showAsAction="never" />
+</menu>
